@@ -1,5 +1,6 @@
-const texts = ["Akathen", "Social", "Carol"];
-const Award = ["Best VP", " Best GD", "BEST SA"]; // An array of texts
+const Award = [" ", "Grizzly Pioneer", "Banquet Boss", "Grizzly Entretainter", "Graphics Guru", "Mentor in Motion", "vintage warrior", "The Joystick Jedi", "Gaming Goliath", "superior squad", "The Click Commander", "Grizzly Titan", "Grizzly Hustlers", "Communication connoisseur", "Cyber Grizzly" ];
+const texts = [" ", "plumface", "Dikshand & Jeel", "JonerF1 Spragouu Tendie", "Social", "mamanote", "trNt", "JackyBoy & Altais", "Rade Rosy Kozy The Odd Canuck", "Rocket League", "Call of Duty", "CS:GO", "Valorant", ".Crissie.", "Akthen" ]; 
+ // An array of texts
 let currentTextIndex = 0; // The current index in the texts array
 
 const textElement = document.getElementById("text");
