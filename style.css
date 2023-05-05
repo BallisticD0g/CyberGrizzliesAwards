@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Apex' ;
+    src: url('apex.woff') format('woff');
+}
+
+h1, 
+h2,
+h3 {
+    font-family: 'Apex', sans-serif;
+    font-size: 5rem;
+    color: #ff401f;    
+} 
+
+body{
+    width: 90vw;
+    min-height: 100vh;
+    margin: 0 auto;
+    background-color: #0F1924;
+    background-image: url(award.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+
+header {
+    /* Shape */
+    margin: 5em auto;
+    /* Style */
+    /* Position */
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    height: 25em;
+    width: 100vw;
+    justify-content: space-evenly;
+}
+
+
